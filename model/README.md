@@ -1,0 +1,1 @@
+Run the `data_cleaning` notebook to collect, filter, and output the production data of unbiased news articles. Next, run the `cluster_training` notebook to cluster the articles with example user inputs from various topics. Finally, run the `summarize_training` notebook to create extractive summaries for each user input. 
